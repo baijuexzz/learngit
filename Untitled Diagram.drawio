@@ -1,1 +1,136 @@
-<mxfile host="app.diagrams.net" modified="2020-10-18T12:02:26.808Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" version="13.8.0" etag="FUTzD3LQpHkYCTOcTG7z" type="github"><diagram id="9BlmLJdC8vdynzBgh9UM">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-10-18T12:44:27.832Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="0TJ1yzvG4pa_qiiwpvt9" version="13.8.0" type="github">
+  <diagram id="9BlmLJdC8vdynzBgh9UM" name="Page-1">
+    <mxGraphModel dx="2062" dy="1154" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="jZal6cvNVLkDnqQcw0vs-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="270" width="550" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="jZal6cvNVLkDnqQcw0vs-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="330" width="130" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="jZal6cvNVLkDnqQcw0vs-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="284" y="330" width="246" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="jZal6cvNVLkDnqQcw0vs-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="330" width="130" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="jZal6cvNVLkDnqQcw0vs-7" value="" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="300" y="375" width="110" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="jZal6cvNVLkDnqQcw0vs-8" value="" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="440" y="375" width="66" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="jZal6cvNVLkDnqQcw0vs-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="jZal6cvNVLkDnqQcw0vs-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="110" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jZal6cvNVLkDnqQcw0vs-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jZal6cvNVLkDnqQcw0vs-9" target="jZal6cvNVLkDnqQcw0vs-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jZal6cvNVLkDnqQcw0vs-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jZal6cvNVLkDnqQcw0vs-9" target="jZal6cvNVLkDnqQcw0vs-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jZal6cvNVLkDnqQcw0vs-9" value="" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="100" y="370" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jZal6cvNVLkDnqQcw0vs-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="jZal6cvNVLkDnqQcw0vs-10" target="jZal6cvNVLkDnqQcw0vs-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jZal6cvNVLkDnqQcw0vs-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="450" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jZal6cvNVLkDnqQcw0vs-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="jZal6cvNVLkDnqQcw0vs-11" target="jZal6cvNVLkDnqQcw0vs-34">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="710" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jZal6cvNVLkDnqQcw0vs-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="450" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jZal6cvNVLkDnqQcw0vs-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jZal6cvNVLkDnqQcw0vs-12" target="jZal6cvNVLkDnqQcw0vs-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jZal6cvNVLkDnqQcw0vs-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="450" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jZal6cvNVLkDnqQcw0vs-17" value="Eden" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="310" y="390" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jZal6cvNVLkDnqQcw0vs-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jZal6cvNVLkDnqQcw0vs-18" target="jZal6cvNVLkDnqQcw0vs-44">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="355" y="770" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jZal6cvNVLkDnqQcw0vs-18" value="S0/&lt;br&gt;From" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="340" y="390" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jZal6cvNVLkDnqQcw0vs-20" value="S1/&lt;br&gt;TO" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="370" y="390" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jZal6cvNVLkDnqQcw0vs-21" value="JVM内存结构" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="240" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="jZal6cvNVLkDnqQcw0vs-22" value="堆内存" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="325" y="300" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="jZal6cvNVLkDnqQcw0vs-23" value="栈内存" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="300" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="jZal6cvNVLkDnqQcw0vs-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="jZal6cvNVLkDnqQcw0vs-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="510" y="140" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="510" y="340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jZal6cvNVLkDnqQcw0vs-24" value="Xms-Xmx" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="340" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="jZal6cvNVLkDnqQcw0vs-25" value="线程栈，栈大小由Xss设置，递归调用过深的情况会导致StackOverFlow问题" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="95" y="370" width="120" height="32.5" as="geometry" />
+        </mxCell>
+        <mxCell id="jZal6cvNVLkDnqQcw0vs-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="jZal6cvNVLkDnqQcw0vs-26" target="jZal6cvNVLkDnqQcw0vs-28">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="705" y="660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jZal6cvNVLkDnqQcw0vs-26" value="DirectMemory（直接内存）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="645" y="402.5" width="120" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="jZal6cvNVLkDnqQcw0vs-28" value="此处内存不属于堆内存，也不在JVM划分的内存中，大小受物理内存限制，但是GC也会回收" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="585" y="650" width="240" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="jZal6cvNVLkDnqQcw0vs-34" value="栈帧：栈帧中只包含class引用、局部变量表、操作数栈，局部变量创建的对象都保留在堆内存中，栈帧只保留引用(引用方式有两种：句柄引用、指针引用)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="42.5" y="760" width="225" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="jZal6cvNVLkDnqQcw0vs-39" value="Xms设置最小堆内存大小，Xmx设置最大堆内存大小，建议设置大小一致。&lt;br&gt;原因“：堆内存大小不够的情况下，堆内存大小会扩容，扩容情况发生GC，导致影响系统性能。&lt;br&gt;个人理解：导致系统性能的原因是STW，若使用高版本的GC（ZGC等）是不是可以理解为对系统的性能影响可以忽略不计" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="390" y="40" width="340" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="jZal6cvNVLkDnqQcw0vs-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="jZal6cvNVLkDnqQcw0vs-40" target="jZal6cvNVLkDnqQcw0vs-42">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jZal6cvNVLkDnqQcw0vs-40" value="Xmn" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="370" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="jZal6cvNVLkDnqQcw0vs-42" value="Xmn设置新生代大小" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="130" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="jZal6cvNVLkDnqQcw0vs-44" value="S0/S1区大部分情况下只有一个会有“数据”&lt;br&gt;原因：新创建的对象存储区域为Eden区（除非创建的对象一开始就是大对象，会放在老年代），在进行MinorGc过程中，会将eden区的数据向From区迁移，GC有对应得“标记清除复制算法”，会将部分对象进行回收，也会将部分对象“复制/移动”到老年代，此时From区的会有内存碎片，不方便管理，做法就是讲From区存活的对象复制到TO区，将From区进行清空，接下来的MinorGC会重复这一过程" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="850" width="415" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="jZal6cvNVLkDnqQcw0vs-45" value="Meta" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="540" y="335" width="60" height="205" as="geometry" />
+        </mxCell>
+        <mxCell id="jZal6cvNVLkDnqQcw0vs-47" value="非堆内存" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="510" y="300" width="120" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
